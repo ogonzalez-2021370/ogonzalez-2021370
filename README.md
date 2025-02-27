@@ -27,8 +27,8 @@ Soy un apasionado de la tecnología con experiencia en desarrollo backend y fron
 ### 📌 **Proyectos Destacados**
 
 - **📊 Sistema de Control Administrativo:** Desarrollo en ASP.NET MVC con base de datos SQL Server.  
-- **🏫 Base de Datos para Universidad:** Proyecto en Oracle para gestión de inscripciones, pagos y asignaciones.  
-- **🎮 Aplicaciones de consola C++:** Utilizando estructuras de datos y algoritmos.  
+- **🏛️ Base de Datos para Universidad:** Proyecto en Oracle para gestión de inscripciones, pagos y asignaciones.  
+- **💻 Aplicaciones de consola C++:** Utilizando estructuras de datos y algoritmos.  
 - **🌐 Página Web Personal:** Desarrollada con HTML, CSS y JavaScript, hospedada en Netlify con URL personalizada.  
 
 🔗 **Puedes ver más en mi [repositorio de proyectos](https://github.com/ogonzalez-2021370).**
