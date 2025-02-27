@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Oscar Gonzalez  
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola, soy Oscar Gonzalez
 ### 🚀 **Programador Junior** | **Administrador de Bases de Datos** | **Ingeniero en Sistemas en formación**  
 
 Soy un apasionado de la tecnología con experiencia en desarrollo backend y frontend, administración de bases de datos. Actualmente, me encuentro en busca de mi primera oportunidad laboral. Me considero una persona extrovertida, responsable y ordenada, siempre dispuesto a aprender y crecer en el mundo de la tecnología. 🌱
