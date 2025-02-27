@@ -17,7 +17,7 @@ Soy un apasionado de la tecnología con experiencia en desarrollo backend y fron
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)  
 
 #### **Herramientas**  
-[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)  
 
 #### **Otros**  
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)  
