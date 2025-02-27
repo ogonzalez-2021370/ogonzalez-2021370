@@ -7,9 +7,9 @@ Soy un apasionado de la tecnología con experiencia en desarrollo backend y fron
 
 ### 🛠️ Tecnologías y Herramientas:
 
-- **Lenguajes:** C++, C#, JavaScript, SQL
+- **Lenguajes:** C++, C#, Java, JavaScript, SQL
 - **Frameworks:** ASP.NET MVC, Bootstrap, React Native
-- **Bases de Datos:** Oracle, SQL Server, MySQL
+- **Bases de Datos:** Oracle, SQL Server, MySQL, MongoDB
 - **Herramientas:** Git, Visual Studio, Dev-C++
 - **Otros:** HTML, CSS
 
