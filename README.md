@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Oscar Gonzalez  
 ### 🚀 Programador Junior | Administrador de Bases de Datos | Ingeniero en Sistemas en formación  
 
-Soy un apasionado de la tecnología con experiencia en desarrollo backend y administración de bases de datos. Actualmente, me encuentro en busca de mi primera oportunidad laboral, me considero una persona extrovertida, responsable y ordenada.
+Soy un apasionado de la tecnología con experiencia en desarrollo backend y frontend, administración de bases de datos. Actualmente, me encuentro en busca de mi primera oportunidad laboral, me considero una persona extrovertida, responsable y ordenada.
 
 ---
 
